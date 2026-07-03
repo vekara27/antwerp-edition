@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sherlock Holmes</title>
+            <author>Arthur Conan Doyle</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript with revisions</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5371" lry="7115" xml:id="facs_1">
+         <graphic url="0009_009_3r.jpeg" width="5371px" height="7115px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=EYWUPFZGVUBIWOOHKVKCJQKH" width="5371px" height="7115px"/>
+         <zone points="1614,172 5135,172 5135,1097 1614,1097" rendition="TextRegion" xml:id="facs_1_r">
+            <zone points="1844,187 2522,187 2522,593 1844,593" rendition="Line" xml:id="facs_1_r_tl_1"/>
+            <zone points="2473,194 4499,194 4499,611 2473,611" rendition="Line" xml:id="facs_1_l"/>
+            <zone points="3768,429 4729,429 4729,841 3768,841" rendition="Line" xml:id="facs_1_r_tl_3"/>
+            <zone points="4173,575 5062,575 5062,1064 4173,1064" rendition="Line" xml:id="facs_1_l_1"/>
+         </zone>
+         <zone points="917,724 3572,724 3572,991 917,991" rendition="TextRegion" xml:id="facs_1_r_3" subtype="header">
+            <zone points="925,683 3508,683 3508,1089 925,1089" rendition="Line" xml:id="facs_1_r_3_tl_1"/>
+         </zone>
+         <zone points="814,1290 3984,1290 3984,1915 814,1915" rendition="TextRegion" xml:id="facs_1_r_4" subtype="heading">
+            <zone points="865,1597 3955,1597 3955,1971 865,1971" rendition="Line" xml:id="facs_1_r_4_tl_1"/>
+         </zone>
+         <zone points="126,991 980,991 980,1991 126,1991" rendition="TextRegion" xml:id="facs_1_r_2">
+         </zone>
+         <zone points="146,2035 5152,2035 5152,6858 146,6858" rendition="TextRegion" xml:id="facs_1_r_1" subtype="paragraph">
+            <zone points="695,2189 3235,2189 3235,2552 695,2552" rendition="Line" xml:id="facs_1_r_1_tl_1"/>
+            <zone points="3314,2207 4796,2207 4796,2558 3314,2558" rendition="Line" xml:id="facs_1_r_1_tl_2"/>
+            <zone points="169,2534 1258,2534 1258,2873 169,2873" rendition="Line" xml:id="facs_1_r_1_tl_3"/>
+            <zone points="1330,2540 1754,2540 1754,2848 1330,2848" rendition="Line" xml:id="facs_1_r_1_tl_4"/>
+            <zone points="1838,2516 4572,2516 4572,2867 1838,2867" rendition="Line" xml:id="facs_1_r_1_tl_5"/>
+            <zone points="169,2776 4663,2776 4663,3151 169,3151" rendition="Line" xml:id="facs_1_r_1_tl_6"/>
+            <zone points="4052,3066 4330,3066 4330,3248 4052,3248" rendition="Line" xml:id="facs_1_r_1_tl_7"/>
+            <zone points="853,3096 3187,3096 3187,3465 853,3465" rendition="Line" xml:id="facs_1_r_1_tl_8"/>
+            <zone points="3248,3114 4663,3114 4663,3514 3248,3514" rendition="Line" xml:id="facs_1_r_1_tl_9"/>
+            <zone points="169,3399 2842,3399 2842,3755 169,3755" rendition="Line" xml:id="facs_1_r_1_tl_10"/>
+            <zone points="1040,3683 2219,3683 2219,4040 1040,4040" rendition="Line" xml:id="facs_1_r_1_tl_11"/>
+            <zone points="2286,3713 4898,3713 4898,4052 2286,4052" rendition="Line" xml:id="facs_1_r_1_tl_12"/>
+            <zone points="200,3997 4771,3997 4771,4360 200,4360" rendition="Line" xml:id="facs_1_r_1_tl_13"/>
+            <zone points="272,4306 4124,4306 4124,4687 272,4687" rendition="Line" xml:id="facs_1_r_1_tl_14"/>
+            <zone points="1185,4596 2764,4596 2764,4929 1185,4929" rendition="Line" xml:id="facs_1_r_1_tl_15" subtype="scratched_out"/>
+            <zone points="2806,4657 2963,4657 2963,4868 2806,4868" rendition="Line" xml:id="facs_1_r_1_tl_16"/>
+            <zone points="1210,4892 4741,4892 4741,5261 1210,5261" rendition="Line" xml:id="facs_1_r_1_tl_17"/>
+            <zone points="212,5159 931,5159 931,5521 212,5521" rendition="Line" xml:id="facs_1_r_1_tl_18"/>
+            <zone points="992,5159 4644,5159 4644,5533 992,5533" rendition="Line" xml:id="facs_1_r_1_tl_19"/>
+            <zone points="187,5509 5007,5509 5007,5860 187,5860" rendition="Line" xml:id="facs_1_r_1_tl_20"/>
+            <zone points="187,5787 4947,5787 4947,6181 187,6181" rendition="Line" xml:id="facs_1_r_1_tl_21"/>
+            <zone points="175,6102 4935,6102 4935,6465 175,6465" rendition="Line" xml:id="facs_1_r_1_tl_22"/>
+            <zone points="145,6404 4995,6404 4995,6840 145,6840" rendition="Line" xml:id="facs_1_r_1_tl_23"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div><pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <ab facs="#facs_1_r">
+            </ab><fw type="header" place="top" facs="#facs_1_r_3">
+               <lb facs="#facs_1_r_3_tl_1" n="N001"/>The Return of <rs type="person">Sherlock Holmes</rs></fw><head facs="#facs_1_r_4">
+               <lb facs="#facs_1_r_4_tl_1" n="N003"/>II The Adventure of the Norwood Builder</head>
+            <p facs="#facs_1_r_1">
+               <lb facs="#facs_1_r_1_tl_1" n="N001"/>"From the proint of view of the criminal expert" said
+               <lb facs="#facs_1_r_1_tl_3" n="N003"/>Mr. <rs type="person">Sherlock Holmes</rs> "London has become a singularly
+               <lb facs="#facs_1_r_1_tl_6" n="N006"/>uninteresting city since the death of <rs type="person">Professor Moriarty</rs>."
+               <lb facs="#facs_1_r_1_tl_8" n="N008"/>"I can hardly think that you would find many <add place="supralinear">decent citizens</add> to
+               <lb facs="#facs_1_r_1_tl_10" n="N010"/>agree with you" <del type="crossedOut">said</del> I answered.
+               <lb facs="#facs_1_r_1_tl_11" n="N011"/>"Well, well, I must not be selfish" said he, with a
+               <lb facs="#facs_1_r_1_tl_13" n="N013"/>smile, as he pushed back his chair from the breakfast table
+               <lb facs="#facs_1_r_1_tl_14" n="N014"/>"The community is certainly the gainer<del>."</del> <add>, and no one the loser save</add> 
+               <lb facs="#facs_1_r_1_tl_15" n="N015"/><del type="crossedOut">"And who is the loser?</del>
+               <lb facs="#facs_1_r_1_tl_17" n="N017"/><del type="crossedOut">"Why,</del> the poor out-of-work specialist whose
+               <lb facs="#facs_1_r_1_tl_18" n="N018"/>occupation has gone. With that man in the fielda one's
+               <lb facs="#facs_1_r_1_tl_20" n="N020"/>morning<del type="crossedOut">s</del> paper presented infinite possibilities. Often it was
+               <lb facs="#facs_1_r_1_tl_21" n="N021"/>only the smallest trace, Watson – the faintest indication - and
+               <lb facs="#facs_1_r_1_tl_22" n="N022"/>yet it was enough to tell me that the great malignant brain was
+               <lb facs="#facs_1_r_1_tl_23" n="N023"/>there, as the gentlest tremor of the edges of the web remind one of</p></div>
+      </body>
+   </text>
+</TEI>

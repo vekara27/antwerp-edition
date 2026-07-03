@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sherlock Holmes</title>
+            <author>Arthur Conan Doyle</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Draft with revisions</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5315" lry="7115" xml:id="facs_1">
+         <graphic url="0035_035_16r.jpeg" width="5315px" height="7115px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=EAZZUXEHJJEPPKYWRQYUBLCB" width="5315px" height="7115px"/>
+         <zone points="4569,332 4855,332 4855,509 4569,509" rendition="TextRegion" xml:id="facs_1_r_1" subtype="page-number">
+            <zone points="4560,231 4804,231 4804,505 4560,505" rendition="Line" xml:id="facs_1_r_1_tl_1"/>
+         </zone>
+         <zone points="166,741 5130,741 5130,6590 166,6590" rendition="TextRegion" xml:id="facs_1_r" subtype="paragraph">
+            <zone points="1169,682 2685,682 2685,1041 1169,1041" rendition="Line" xml:id="facs_1_l_5"/>
+            <zone points="2703,889 2886,889 2886,1108 2703,1108" rendition="Line" xml:id="facs_1_l"/>
+            <zone points="134,919 5035,919 5035,1266 134,1266" rendition="Line" xml:id="facs_1_r_tl_1"/>
+            <zone points="3605,1139 4012,1139 4012,1352 3605,1352" rendition="Line" xml:id="facs_1_r_tl_2" subtype="add"/>
+            <zone points="207,1236 4098,1236 4098,1607 207,1607" rendition="Line" xml:id="facs_1_l_2"/>
+            <zone points="4134,1266 4597,1266 4597,1492 4134,1492" rendition="Line" xml:id="facs_1_l_1"/>
+            <zone points="189,1516 4975,1516 4975,1888 189,1888" rendition="Line" xml:id="facs_1_r_tl_4"/>
+            <zone points="183,1827 4597,1827 4597,2222 183,2222" rendition="Line" xml:id="facs_1_l_4"/>
+            <zone points="4640,1827 4792,1827 4792,2052 4640,2052" rendition="Line" xml:id="facs_1_l_3"/>
+            <zone points="231,2149 3148,2149 3148,2484 231,2484" rendition="Line" xml:id="facs_1_r_tl_6"/>
+            <zone points="1346,2393 5011,2393 5011,2770 1346,2770" rendition="Line" xml:id="facs_1_r_tl_7"/>
+            <zone points="207,2734 4834,2734 4834,3117 207,3117" rendition="Line" xml:id="facs_1_r_tl_8"/>
+            <zone points="207,2977 5041,2977 5041,3428 207,3428" rendition="Line" xml:id="facs_1_r_tl_9"/>
+            <zone points="207,3337 5084,3337 5084,3714 207,3714" rendition="Line" xml:id="facs_1_r_tl_10"/>
+            <zone points="207,3647 4981,3647 4981,3994 207,3994" rendition="Line" xml:id="facs_1_r_tl_11"/>
+            <zone points="207,3921 4981,3921 4981,4286 207,4286" rendition="Line" xml:id="facs_1_r_tl_12"/>
+            <zone points="219,4195 4841,4195 4841,4524 219,4524" rendition="Line" xml:id="facs_1_r_tl_13"/>
+            <zone points="225,4506 4792,4506 4792,4895 225,4895" rendition="Line" xml:id="facs_1_r_tl_14"/>
+            <zone points="225,4841 5005,4841 5005,5236 225,5236" rendition="Line" xml:id="facs_1_r_tl_15"/>
+            <zone points="219,5108 3793,5108 3793,5449 219,5449" rendition="Line" xml:id="facs_1_r_tl_16"/>
+            <zone points="1364,5425 4841,5425 4841,5845 1364,5845" rendition="Line" xml:id="facs_1_r_tl_17"/>
+            <zone points="219,5711 810,5711 810,6016 219,6016" rendition="Line" xml:id="facs_1_r_tl_18"/>
+            <zone points="1407,5937 4841,5937 4841,6351 1407,6351" rendition="Line" xml:id="facs_1_r_tl_19"/>
+            <zone points="177,6302 1151,6302 1151,6685 177,6685" rendition="Line" xml:id="facs_1_r_tl_20"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div><pb facs="#facs_1" n="1" xml:id="img_0001"/><fw type="page-number" facs="#facs_1_r_1" place="top">
+               <lb facs="#facs_1_r_1_tl_1" n="N001"/>14</fw>
+            <p facs="#facs_1_r">
+               <lb facs="#facs_1_r_tl_1" n="N003"/>his house at <rs type="place">Norwood</rs> that night <add place="supralinear" hand="editor">bringing the will with me</add> and <add place="supralinear" hand="editor">to</add> arrange matters. "Remember,
+               <lb facs="#facs_1_l_2" n="N005"/>my boy, not one word to your parents about the <del type="crossedOut">matter</del><add place="supralinear" hand="ACD">affair</add> until
+               <lb facs="#facs_1_r_tl_4" n="N007"/>everything is settled. We will keep it as a little surprise for them"
+               <lb facs="#facs_1_l_4" n="N008"/>He was very insistent upon this point and made me promise
+               <lb facs="#facs_1_l_3" n="N009"/><add>it</add>
+               <lb facs="#facs_1_r_tl_6" n="N010"/>faithfully <del type="crossedOut">that I would not say a word</del>.
+               <lb facs="#facs_1_r_tl_7" n="N011"/>You can imagine, <rs type="person">Mr Holmes</rs>, that I was not in a
+               <lb facs="#facs_1_r_tl_8" n="N012"/>humour to refuse him anything that he might ask. He was my
+               <lb facs="#facs_1_r_tl_9" n="N013"/>benefactor and all my desire was to carry out his wishes in every
+               <lb facs="#facs_1_r_tl_10" n="N014"/>particular. I sent a telegram home <del type="crossedOut"><unclear>xxx</unclear></del> therefore to say that I had
+               <lb facs="#facs_1_r_tl_11" n="N015"/>important business on hand and that it was impossible for me
+               <lb facs="#facs_1_r_tl_12" n="N016"/>to say how <del type="crossedOut"><unclear>xxx</unclear></del> late I might be. <rs type="person">Mr Oldacre</rs> had told me that
+               <lb facs="#facs_1_r_tl_13" n="N017"/>he would like me to have supper with him at nine, as he might
+               <lb facs="#facs_1_r_tl_14" n="N018"/>not be home before that hour. I <del type="crossedOut">found it difficult to find</del> had
+               <lb facs="#facs_1_r_tl_15" n="N019"/>some difficulty in finding his house however and it was nearly
+               <lb facs="#facs_1_r_tl_16" n="N020"/>half past before I reached it. I found him -
+               <lb facs="#facs_1_r_tl_17" n="N021"/>"One moment! said <rs type="person">Holmes</rs> "Who opened the
+               <lb facs="#facs_1_r_tl_18" n="N022"/>door?"
+               <lb facs="#facs_1_r_tl_19" n="N023"/>"A middle aged woman who was, I suppose, his
+               <lb facs="#facs_1_r_tl_20" n="N024"/>housekeeper.</p></div>
+      </body>
+   </text>
+</TEI>

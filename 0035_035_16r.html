@@ -1,3 +1,5 @@
+<!-- RENAME THIS FILE TO MATCH YOUR PAGE NAME **EXACTLY** -->
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -12,6 +14,7 @@
     <title>The Adventure of the Norwood Builder Digital Edition (Light)</title>
     <link href="style.css" rel="stylesheet">
   </head>
+
   <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <a class="navbar-brand" href="#">The Adventure of the Norwood Builder</a>
@@ -20,43 +23,43 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
         <ul class="navbar-nav">
-            <a class="nav-link" href="#">Home</a>
+          <a class="nav-link" href="index.html">Home</a>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               Pages
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <!-- change the href and the text to match your page number -->
+              <!-- change the href and the text to exactly match your page number -->
               <a class="dropdown-item" href="0009_009_3r.html">Page 1</a>
               <a class="dropdown-item" href="0035_035_16r.html">Page 14</a>
+              <!-- Previous Button -->
+        <li class="nav-item">
+          <a class="nav-link btn btn-primary text-white ml-2" href="0009_009_3r.html">
+            Previous Page
+          </a>
+        </li>
             </div>
           </li>
         </ul>
       </div>
     </nav>
     <div class="container-fluid">
-      <h1>Sir Arthur Conan Doyle - <i>The Adventure of the Norwood Builder</i></h1>
+      <h1>The Return of Sherlock Holmes: No. 2. The adventure of the Norwood builder. Holograph</h1>
       
+      <!-- change the content of this h2 to match your page number -->
+      <h2 id='folio'>Page 14</h2>
+      <div id="stats"></div>
+      <div class="form-group">
+        <select class="form-control" id="sel-version" onChange="selectVersion(event)">
+          <option value="all">All text</option>
+          <option value="final">Final text (only additions)</option>
+          <option value="first">First draft (no edits)</option>
+        </select>
+      </div>
       <div class="row">
-        <div class="col-5">   
-            <p>Welcome to the digital edition (light) of Conan Doyle's <i>The Adventure of the Norwood Builder</i>, made as a project for the 2026 edition of the Antwerp Digital Humanities Summer School.</p>
-          <!--Give here some context about the manuscript and the assignment by writing directly into the html, for example:</p>-->
-          <ul>
-            <li>The author: Sir Arthur Conan Doyle;</li>
-            <div class="row">
         <div class="col-5">  
             <!-- change the src of this img to exactly match your page number -->
-            <img src="ACD_by_WB.png" />
-        </div>
-        <div class="col-7" id="text"></div>
-      </div>
-            <li>Pages contained in this edition: Page 1, Page 14</li>
-            <li>The full manuscript can be consulted at the <a href="https://digitalcollections.nypl.org/items/9587f2f0-732a-0136-11d7-19ebff38455b">New York Public Library Digital Collections</a></li>
-            <li>Edited by: VK</li>
-            <li>Licensed under: <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></li>
-            <li>Detailed information on the encoding can be found in the <a href="https://bdmpmanual.uantwerpen.be/">BDMP encoding manual</a></li>
-          </ul>
-          <!-- <p><b>Style all the pages the way you want by diving into the css file.</b></p>-->
+            <img src="0035_035_16r.jpeg" />
         </div>
         <div class="col-7" id="text"></div>
       </div>
