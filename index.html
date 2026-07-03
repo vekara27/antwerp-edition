@@ -13,76 +13,115 @@
     <link href="style.css" rel="stylesheet">
   </head>
   <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand" href="#">The Adventure of the Norwood Builder</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarNavDropdown">
-        <ul class="navbar-nav">
-            <a class="nav-link" href="#">Home</a>
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Pages
-            </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <!-- change the href and the text to match your page number -->
-              <a class="dropdown-item" href="0009_009_3r.html">Page 1</a>
-              <a class="dropdown-item" href="0035_035_16r.html">Page 14</a>
-            </div>
-          </li>
-        </ul>
-      </div>
-    </nav>
-<div class="container-fluid">
-  <div class="row mt-3"></div>
-  <h1>Sir Arthur Conan Doyle - <i>The Adventure of the Norwood Builder</i></h1>
-<div class="row mt-5"></div>
-  <div class="row">
-    <!-- Left column: text -->
-    <div class="col-md-8">
-      <p>
-        Welcome to the digital edition (light) of Conan Doyle's
-        <i>The Adventure of the Norwood Builder</i>, made as a project
-        for the 2026 edition of the Antwerp Digital Humanities Summer School.
-      </p>
+<body>
 
-      <ul>
-        <li>Pages contained in this edition: Page 1, Page 14</li>
-        <li>
-          The full manuscript can be consulted at the
-          <a href="https://digitalcollections.nypl.org/items/9587f2f0-732a-0136-11d7-19ebff38455b">
-            New York Public Library Digital Collections
-          </a>
-        </li>
-        <li>Edited by: VK</li>
-        <li>
-          Licensed under:
-          <a href="https://creativecommons.org/licenses/by-nc/4.0/">
-            CC BY-NC 4.0
-          </a>
-        </li>
-        <li>
-          Detailed information on the encoding can be found in the
-          <a href="https://bdmpmanual.uantwerpen.be/">
-            BDMP encoding manual
-          </a>
-        </li>
-      </ul>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow">
+  <a class="navbar-brand font-weight-bold" href="#">The Adventure of the Norwood Builder</a>
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse"
+          data-target="#navbarNavDropdown">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarNavDropdown">
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="#">Home</a>
+      </li>
+
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle"
+           href="#"
+           id="navbarDropdownMenuLink"
+           data-toggle="dropdown">
+          Pages
+        </a>
+
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="0009_009_3r.html">Page 1</a>
+          <a class="dropdown-item" href="0035_035_16r.html">Page 14</a>
+        </div>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+<div class="container mt-5">
+
+    <h1 class="text-center mb-4">
+        Sir Arthur Conan Doyle
+    </h1>
+
+    <h3 class="text-center text-muted mb-5">
+        <i>The Adventure of the Norwood Builder</i>
+    </h3>
+
+    <div class="card shadow-lg p-4">
+
+        <div class="row align-items-center">
+
+            <div class="col-lg-8">
+
+                <p class="lead">
+                    Welcome to the digital edition (light) of
+                    <i>The Adventure of the Norwood Builder</i>,
+                    created for the 2026 Antwerp Digital Humanities Summer School.
+                </p>
+
+                <hr>
+
+                <ul class="list-group list-group-flush">
+
+                    <li class="list-group-item">
+                        <strong>Pages:</strong> Page 1, Page 14
+                    </li>
+
+                    <li class="list-group-item">
+                        <strong>Manuscript:</strong>
+                        <a href="https://digitalcollections.nypl.org/items/9587f2f0-732a-0136-11d7-19ebff38455b">
+                            New York Public Library Digital Collections
+                        </a>
+                    </li>
+
+                    <li class="list-group-item">
+                        <strong>Edited by:</strong> VK
+                    </li>
+
+                    <li class="list-group-item">
+                        <strong>Licensed under:</strong>
+                        <a href="https://creativecommons.org/licenses/by-nc/4.0/">
+                            CC BY-NC 4.0
+                        </a>
+                    </li>
+
+                    <li class="list-group-item">
+                        <strong>Detailed information on the encoding can be found in the:</strong>
+                        <a href="https://bdmpmanual.uantwerpen.be/">
+                            BDMP Encoding Manual
+                        </a>
+                    </li>
+
+                </ul>
+
+            </div>
+
+            <div class="col-lg-4 text-center">
+
+                <img src="ACD_by_WB.png"
+                     class="img-fluid rounded shadow"
+                     style="max-width:250px;"
+                     alt="Sir Arthur Conan Doyle">
+
+                <p class="text-muted mt-3">
+                    <small>Portrait of Sir Arthur Conan Doyle.</small>
+                </p>
+
+            </div>
+
+        </div>
+
     </div>
 
-    <!-- Right column: image -->
-   <div class="col-md-4 text-end">
-    <img src="ACD_by_WB.png"
-         class="img-fluid"
-         style="max-width: 250px;"
-         alt="Sir Arthur Conan Doyle">
-
-    <p class="mt-2">
-        <small>Portrait of Sir Arthur Conan Doyle</small>
-    </p>
-</div>
-  </div>
 </div>
           <!-- <p><b>Style all the pages the way you want by diving into the css file.</b></p>-->
         </div>
@@ -94,4 +133,5 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     <script src="script.js"></script>
   </body>
+
 </html>
