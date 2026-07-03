@@ -10,6 +10,16 @@ img {
     max-width: 100%;
 }
 
+#image_container {
+    width:100%;
+    overflow:auto;
+}
+
+#image_right {
+    float: left;
+    width: 33%;
+}
+
 p {
     text-indent: 10px;
 }
